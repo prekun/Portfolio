@@ -1,4 +1,6 @@
 // Add smooth scrolling to navigation links
+alert('HI MY NAME IS PREMPREE LUNPILA');
+
 document.querySelectorAll('nav ul li a').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
